@@ -88,7 +88,7 @@ ul li span {
   width: 20px;
   border-radius: 45%;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: center;
 }
 ul li span:hover {
   background: #d6d3d3;
@@ -99,3 +99,4 @@ ul li.task-text.done {
 .done {
   text-decoration: line-through;
 }
+
